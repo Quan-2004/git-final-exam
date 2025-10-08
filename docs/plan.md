@@ -18,3 +18,6 @@ Ngày kết thúc: <dd/mm/yyyy>
 - Bổ sung: Học cách sử dụng git stash
 - Bổ sung: Thực hành git diff
 - Bổ sung: Quản lý nhiều stash
+- Ghi chú: Backup công việc với stash
+- Ghi chú: Chuyển đổi giữa các nhánh an toàn
+>>>>>>> Stashed changes
