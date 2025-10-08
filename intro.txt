@@ -4,7 +4,8 @@ Giới thiệu cá nhân:
 - Mục tiêu: áp dụng Git vào dự án học tập và nhóm.
 - Tôi thích học qua ví dụ và bài tập thực hành.
 - Cam kết viết commit message rõ ràng.
-
+- Add more details on project milestones.
+- Review risk management strategies.
 Sở thích:
 - Đọc sách
 - Chụp ảnh
