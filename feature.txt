@@ -1,0 +1,6 @@
+Tính năng mới: Gợi ý lệnh Git
+- Gợi ý lệnh phù hợp theo bối cảnh.
+- Hiển thị ví dụ ngắn gọn.
+- Có mục "cảnh báo" với lệnh nguy hiểm (reset --hard).
+- Tích hợp nhanh trong README.
+- Hỗ trợ người mới tránh sai sót thường gặp.
