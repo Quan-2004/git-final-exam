@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+Hello, this is Phạm Hồng Quân
 Hello, this is Phạm Hồng Quân
 - Tôi là Phạm Hồng Quân, sinh viên.
 =======
-Xin chào, tôi là <Họ Tên>
-- Tôi là <Họ Tên>, sinh viên <Khoa/Trường>.
+Xin chào, tôi là Phạm Hồng Quân
+- Tôi là Phạm Hồng Quân, sinh viên <Khoa/Trường>.
 >>>>>>> feature-update
 - Đang học môn Hệ thống Quản lý Phiên bản (Git).
 - Mục tiêu: áp dụng Git vào dự án học tập và nhóm.
