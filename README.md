@@ -1,10 +1,6 @@
 **Họ tên:** <Phạm Hồng Quân>  
 **MSSV:** <224661>  
 **Ngày làm bài:** <08/10/2025>
-:q
-:WQ
-
-.git/
 
 ## Mục tiêu
 - Hiểu quy trình làm việc với Git cơ bản và nâng cao.
