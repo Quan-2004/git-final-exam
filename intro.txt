@@ -1,5 +1,5 @@
-Giới thiệu cá nhân:
-- Tôi là <Họ Tên>, sinh viên <Khoa/Trường>.
+Hello, this is Phạm Hồng Quân
+- Tôi là Phạm Hồng Quân, sinh viên.
 - Đang học môn Hệ thống Quản lý Phiên bản (Git).
 - Mục tiêu: áp dụng Git vào dự án học tập và nhóm.
 - Tôi thích học qua ví dụ và bài tập thực hành.
