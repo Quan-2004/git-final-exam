@@ -14,4 +14,7 @@ Ngày kết thúc: <dd/mm/yyyy>
 - Kết quả mong đợi: Repo sạch, lịch sử rõ ràng.
 - Bổ sung: Học cách sử dụng git stash
 - Bổ sung: Thực hành git diff
+- Bổ sung: Quản lý nhiều stash cùng lúc
+- Bổ sung: Học cách sử dụng git stash
+- Bổ sung: Thực hành git diff
 - Bổ sung: Quản lý nhiều stash
