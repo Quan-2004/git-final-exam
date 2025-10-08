@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Hello, this is Pham Hong Quan
 Hello, this is Phạm Hồng Quân
 =======
 Xin chào, tôi là Phạm Hồng Quân
