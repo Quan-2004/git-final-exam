@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Xin chào, tôi là Phạm Hồng Quân
 Hello, this is Phạm Hồng Quân
 - Tôi là Phạm Hồng Quân, sinh viên.
 =======
