@@ -1,0 +1,4 @@
+Cảm nhận về Git:
+- Lịch sử commit giúp truy vết thay đổi.
+- Branch/merge hỗ trợ phát triển song song.
+- Công cụ mạnh, cần kỷ luật khi sử dụng.
