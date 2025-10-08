@@ -1,4 +1,4 @@
-Giới thiệu cá nhân:
+Xin chào, tôi là <Họ Tên>
 - Tôi là <Họ Tên>, sinh viên <Khoa/Trường>.
 - Đang học môn Hệ thống Quản lý Phiên bản (Git).
 - Mục tiêu: áp dụng Git vào dự án học tập và nhóm.
