@@ -12,3 +12,6 @@ Ngày kết thúc: <dd/mm/yyyy>
 - Lưu ý: Commit nhỏ, message rõ ràng.
 - Mục tiêu tuần: Thành thạo quy trình Git cơ bản-nâng cao.
 - Kết quả mong đợi: Repo sạch, lịch sử rõ ràng.
+- Bổ sung: Học cách sử dụng git stash
+- Bổ sung: Thực hành git diff
+- Bổ sung: Quản lý nhiều stash
